@@ -1,3 +1,7 @@
+[![Hardware Telemetry](https://img.shields.io/badge/Telemetry-ACTIVE-brightgreen.svg?style=for-the-badge&logo=shield)](https://github.com/NomaanOS-Dev/NomaanOS-ShieldSOC)
+[![Threat Monitoring](https://img.shields.io/badge/Threat%20Monitoring-Operational-blue.svg?style=for-the-badge)](https://github.com/NomaanOS-Dev/NomaanOS-ShieldSOC)
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/)
+
 # 🛡️ NomaanOS ShieldSOC — Autonomous Host Security & Telemetry Agent
 > **A zero-dependency Security Operations Center (SOC) daemon providing real-time host integrity monitoring, anomaly detection, and security posture enforcement.**
 
